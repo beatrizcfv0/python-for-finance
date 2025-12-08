@@ -1,0 +1,1 @@
+Exercises and theory of Python for Finance by Yves Hilpisch
