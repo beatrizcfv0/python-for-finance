@@ -81,5 +81,4 @@ plt.xlabel('value')
 plt.ylabel('frequency')
 '''
 
-# Interactive 2D plotting
 plt.show()
